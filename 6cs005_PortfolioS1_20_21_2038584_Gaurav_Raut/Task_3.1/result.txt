@@ -1,0 +1,29 @@
+Time elapsed was 407ns or 0.00000005s
+found password: g a 5 8 = iehddb7334
+
+Time elapsed was 407ns or 0.000000033s
+found password: g a 5 8 = iehddb7334
+
+Time elapsed was 407ns or 0.000000033s
+found password: g a 5 8 = iehddb7334
+
+Time elapsed was 407ns or 0.000000033s
+found password: g a 5 8 = iehddb7334
+
+Time elapsed was 407ns or 0.000000033s
+found password: g a 5 8 = iehddb7334
+
+Time elapsed was 407ns or 0.000000052s
+found password: g a 5 8 = iehddb7334
+
+Time elapsed was 407ns or 0.000000038s
+found password: g a 5 8 = iehddb7334
+
+Time elapsed was 407ns or 0.000000033s
+found password: g a 5 8 = iehddb7334
+
+Time elapsed was 407ns or 0.000000035s
+found password: g a 5 8 = iehddb7334
+
+Time elapsed was 407ns or 0.000000033s
+found password: g a 5 8 = iehddb7334

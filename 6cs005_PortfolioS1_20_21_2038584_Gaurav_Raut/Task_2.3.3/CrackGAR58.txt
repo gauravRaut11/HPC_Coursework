@@ -1,0 +1,3 @@
+#407359  GAR58 $6$AS$Hz8MuUAUV4JzYhl.XXuXmYX0q.iL/59gBbaWrqijqC7WtCUI4Uhn5O8MnRNwUTptw7VM.mO8LZzIKT0R/JvlN1
+407359 solutions explored
+Time elapsed was 783547372786ns or 783.547372786s

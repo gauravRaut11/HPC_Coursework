@@ -1,0 +1,30 @@
+Time elapsed was 386ns or 0.000000077s
+Image width = 464 height = 108
+
+Time elapsed was 386ns or 0.000000081s
+Image width = 464 height = 108
+
+Time elapsed was 386ns or 0.000000084s
+Image width = 464 height = 108
+
+Time elapsed was 386ns or 0.000000087s
+Image width = 464 height = 108
+
+Time elapsed was 386ns or 0.000000083s
+Image width = 464 height = 108
+
+Time elapsed was 386ns or 0.000000085s
+Image width = 464 height = 108
+
+Time elapsed was 386ns or 0.000000083s
+Image width = 464 height = 108
+
+Time elapsed was 386ns or 0.000000097s
+Image width = 464 height = 108
+
+Time elapsed was 386ns or 0.000000078s
+Image width = 464 height = 108
+
+Time elapsed was 386ns or 0.000000078s
+Image width = 464 height = 108
+

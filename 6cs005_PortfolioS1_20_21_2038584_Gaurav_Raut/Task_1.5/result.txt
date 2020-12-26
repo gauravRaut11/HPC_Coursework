@@ -1,0 +1,5 @@
+Result after removing dependencies:
+A=10
+B=70
+C= 110
+D= 40
